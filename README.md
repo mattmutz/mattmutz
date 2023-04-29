@@ -1,9 +1,9 @@
 ## Hello world! 👋 
 
-I am a full-stack .NET developer 
+Welcome to my Github profile! I am a full-stack .NET C# developer with experience building robust and scalable software applications. I am committed to writing efficient code that is easy to understand, maintain, and scale. I have a strong understanding of software design principles and I always strive to implement best practices in my work. With experience developing both front-end and back-end software, I build robust and scalable web applications that meet the needs of businesses and organizations across a wide range of industries. Whether you're looking to build a custom web application from scratch or you need to modernize or optimize an existing application, I have expertise and experience to deliver high-quality solutions that exceed your expectations.
 
 - 🌎 Location: east-central Wisconsin, United States
-- 📫 How to reach me: matt@mattmutz.com
+- 📫 How to reach me: matt@matt365.net
 
 ## Relevant tools and languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
