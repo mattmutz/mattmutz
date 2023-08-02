@@ -1,6 +1,6 @@
 ## Hello world! 👋 
 
-Welcome to my Github profile! I am a full-stack .NET C# developer with experience building robust and scalable software applications. I am committed to writing efficient code that is easy to understand, maintain, and scale. I have a strong understanding of software design principles and I always strive to implement best practices in my work. With experience developing both front-end and back-end software, I build robust and scalable web applications that meet the needs of businesses and organizations across a wide range of industries. Whether you're looking to build a custom web application from scratch or you need to modernize or optimize an existing application, I have expertise and experience to deliver high-quality solutions that exceed your expectations.
+I am a full-stack .NET C# developer with experience building robust and scalable software applications. I am committed to writing code that is easy to understand, maintain, and scale.
 
 - 🌎 Location: east-central Wisconsin, United States
 - 📫 How to reach me: matt@matt365.net
